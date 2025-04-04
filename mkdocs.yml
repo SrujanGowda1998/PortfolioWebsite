@@ -1,5 +1,5 @@
-site_name: Rakesh Portfolio
-repo_url: https://github.com/Rakesh-Seenu/resume_mkdocs
+site_name: Srujan's Portfolio
+repo_url: https://github.com/SrujanGowda1998/PortfolioWebsite
 
 nav:
   - Home: index.md
@@ -34,8 +34,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: blue
+      primary: green
+      accent: green
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
@@ -43,16 +43,16 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: green
+      accent: green
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
   scheme: default
-  primary: cyan
-  accent: cyan
+  primary: green
+  accent: green
 
-copyright: Copyright &copy; 2024 &nbsp;RAKESH HADNE SREENATH
+copyright: Copyright &copy; 2024 &nbsp;SRUJAN PRAKASH GOWDA
 
 markdown_extensions:
   - tables

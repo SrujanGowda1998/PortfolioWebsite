@@ -17,10 +17,10 @@ hide:
 | **`Machine Learning Techniques`**       | **Regression, Classification, Clustering**                                                                                   |
 | **`Visualization & Reporting`**| **Power BI, Tableau, SAS Visual Analytics, Excel**                                                                                      |
 | **`Data Engineering`**         | **ETL, Data Pipelines, Data Scraping, BigQuery, MySQL, SQLite**                                                    |
-| **`Libraries & Frameworks:`**  | **Pandas, NumPy, Scikit-learn, LangChain, TensorFlow, Transformers, spaCy, Matplotlib**                                                                      |
+| **`Libraries & Frameworks`**  | **Pandas, NumPy, Scikit-learn, LangChain, TensorFlow, Transformers, spaCy, Matplotlib**                                                                      |
 | **`Cloud Technologies`**       | **GCP(Cloud Storage Buckets, BigQuery, Dataprep, Dataflow , Dataproc, Looker, Pub/Sub)**                                                                                   |
-| **`Tools & Technologies:`**    | **Git, Docker, Visual Studio Code, API Integration**                                                 |
-| **`Soft Skills:`**             | **Leadership, Team Collaboration, Communication, Multi-tasking, Agile Methodologies**                                                     |    
+| **`Tools & Technologies`**    | **Git, Docker, Visual Studio Code, API Integration**                                                 |
+| **`Soft Skills`**             | **Leadership, Team Collaboration, Communication, Multi-tasking, Agile Methodologies**                                                     |    
 
 ---
 
