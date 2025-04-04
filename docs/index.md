@@ -4,14 +4,14 @@ hide:
   - toc
 ---
 
-# **Rakesh Hadne Sreenath**
-![image](./images/1728931483840.jpg){ width=200 }
+# **Srujan Prakash Gowda**
+![image](./images/srujan_photo.jpg){ width=200 }
 
 ---
 
-Experienced software engineer proficient in SQL,Machine Learning, NLP, Github and Python, data science libraries.
+Experienced Data Scientist proficient in Machine Learning, Gen AI, LLMs, Python, SQL and various data science python libraries.
 
-[Click here](https://drive.google.com/file/d/1Lw3MiuDMVgt_WvZS23FxfjPxOsl0icy-/view?usp=drive_link) to view resume.
+[Click here](https://drive.google.com/file/d/1DgGFgA0GO5jbP-PtXfOxFsKhrA3cB8E8/view?usp=sharing) to view resume.
 
 ---
 
@@ -25,5 +25,5 @@ Experienced software engineer proficient in SQL,Machine Learning, NLP, Github an
 
 ---
 
-[![LinkedIn](./images/svg/linkedin.svg)](https://www.linkedin.com/in/rakesh-hs/){.md-social\_\_link .md-social}
+[![LinkedIn](./images/svg/linkedin.svg)](https://www.linkedin.com/in/srujanpg/){.md-social\_\_link .md-social}
 

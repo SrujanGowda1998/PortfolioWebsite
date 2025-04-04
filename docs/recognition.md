@@ -6,21 +6,20 @@ hide:
 
 # Achivements & Certifications
 
-## Achivements
-
-- Awarded the **“Pat on Back” Award (2022)** at Tech Mahindra for consistently meeting project 
-deadlines and delivering high-quality work on time.
-- Recipient of the **“Best Team Award” (2022)** at Tech Mahindra, recognized for demonstrating 
-exceptional team spirit and collaboration in achieving team goals.
-
 ## Certifications
 
 ---
 
-- [**AZ-900: Microsoft Azure Fundamentals**](https://www.credly.com/badges/951f21ec-7274-42bb-b92a-07d6cf41d918/linked_in_profile)
-- [**Tableau Desktop 10**](https://certificates.simplicdn.net/share/4255715_1680495216.pdf) and [**SAS Certification**](https://www.credly.com/badges/a6185448-3fcd-4d46-8b96-13836ff93a63/linked_in_profile)
-- **[SQL- MySQL for Data Analytics](https://www.udemy.com/certificate/UC-318494b4-da5e-4d2e-b072-3f3410f92fbd/)** and **[Business Intelligence](https://www.udemy.com/certificate/UC-318494b4-da5e-4d2e-b072-3f3410f92fbd/)**
-- [**NVIDIA: Fundamentals of Deep Learning**](https://learn.nvidia.com/certificates?id=-ubL_EyuSJ6eoDU0Z5JB8Q)
+- [**NVIDIA: Fundamentals of Deep Learning**](https://learn.nvidia.com/certificates?id=Ce3Tql4QT_qPvGRTcwceeA)
+- [**IBM Data Science Foundations - Level 2 (V2)**](https://www.credly.com/badges/7262df96-8e8f-43d2-8679-b3fccbcb5850/linked_in_profile)
+- [**SAS Visual Analytics 1 for SAS Viya**](https://www.credly.com/badges/1ec51c81-1ecf-4d9a-94ff-3cb34edcfb2e/linked_in_profile)
+- [**IBM Python for Data Science**](https://courses.cognitiveclass.ai/certificates/0e3d76a1c9d94ee0ac0f88815d0d7281)
+- [**IBM Data Science Methodology**](https://courses.cognitiveclass.ai/certificates/1fbdcd1fed2a4fa6b4843c0b7f3eb11f)
+- [**SAS Visual Analytics 1 for SAS Viya**](https://www.credly.com/badges/1ec51c81-1ecf-4d9a-94ff-3cb34edcfb2e/linked_in_profile)
+- [**HackerRank Python**](https://www.hackerrank.com/certificates/3aebf6fd8fb1)
+- [**IBM Data Science 101**](https://courses.cognitiveclass.ai/certificates/5ea4dfa21b6f434fa454eeef837c1c4c)
+- [**IBM Data Science Tools**](https://courses.cognitiveclass.ai/certificates/8fbd891243474dd3831a63a531defa6c)
+
 
 ---
 

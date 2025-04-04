@@ -6,15 +6,15 @@ hide:
 
 # ABOUT ME
 
-Hey! My name is **Rakesh Hadne Sreenath** and I'm thrilled to have you here on my page! I'm a **Master's Student in Applied Data Science and Analytics in SRH University** , and I'm passionate about _Data Science_, _AI_, _Machine Learning_, _Generative AI_.
+Hey! My name is **Srujan Prakash Gowda** and I'm thrilled to have you here on my page! I have completed my **Master's in Applied Data Science and Analytics in SRH University** , and I'm passionate about _Data Science_, _AI_, _Machine Learning_, _Generative AI_, _Data Analytics_.
 
-I'm from a sweet place called **Davangere** _(karnataka)_ in India. I have completed by Bachelors from **VTU** in Davangere and I have worked for 2 years in **Tech Mahindra**_(Bengaluru)_.
-Currently woknig in **BioMed X** _(Heidelberg Germany)_
+I'm from the coffee land of India, **Chikkamagaluru** _(Karnataka)_. I have completed by Bachelors from **VTU** in Bangalore and I have worked for 2 years in **Cognizant**_(Chennai)_.
+Currently woknig in **AbbVie** _(Ludwigshafen, Germany)_
 
-When I'm not working, you can find me sketching (_you can find my sketches [here](https://www.instagram.com/rs_arts___/)_), cooking something spicy, binge watching series and leisure walking.
+When I'm not working, you can find me travelling, hiking, cooking something spicy or on a leisure walk.
 
-I love listening & telling stories, philosophical discussions.
+I love listening & telling stories, deep philosophical discussions.
 
-Feel free to connect with me over [Insta chats](https://www.instagram.com/rakesh_seenu_/) or just [mail me](mailto:hsrakesh70@gmail.com.com) and let's get to know each other!
+Feel free to connect with me over [email](mailto:srujanprakashgowda3@gmail.com.com) and let's get to know each other!
 
 Keep finding beautiful surprises!
