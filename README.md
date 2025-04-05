@@ -1,10 +1,8 @@
 # Srujan Gowda's Portfolio
 
-Welcome to my portfolio website repository! This project showcases my skills, experience, and projects in a dynamic and accessible way. The site is built using MkDocs and hosted on GitHub Pages.
+Welcome to my portfolio website repository! This project showcases my skills, experience, and projects in a dynamic and accessible way. The site is built using MkDocs and hosted on GitHub Pages. 
 
-[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https%3A%2F%2Frakesh-seenu.github.io%2Fresume_mkdocs%2F)](https://github.com/SrujanGowda1998)  
-
-[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https://github.com/SrujanGowda1998/PortfolioWebsite)](https://github.com/SrujanGowda1998)
+[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https://github.com/SrujanGowda1998/PortfolioWebsite)](https://srujangowda1998.github.io/PortfolioWebsite/)
 ## About Me
 
 Experienced Data Scientist proficient in Machine Learning, Gen AI, LLMs, Python, SQL and various data science python libraries. I enjoy building innovative solutions. This portfolio reflects my journey and the projects that I'm proud of.
@@ -13,7 +11,7 @@ Experienced Data Scientist proficient in Machine Learning, Gen AI, LLMs, Python,
 
 Visit my live portfolio website to learn more about me and my work:
 
-[https://rakesh-seenu.github.io/resume_mkdocs/](https://rakesh-seenu.github.io/resume_mkdocs/) 
+[Check my portfolio here...](https://srujangowda1998.github.io/PortfolioWebsite/) 
 
 ## Technologies Used
 
