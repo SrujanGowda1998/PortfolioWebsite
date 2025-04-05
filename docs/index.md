@@ -9,7 +9,7 @@ hide:
 
 ---
 
-Experienced Data Scientist proficient in Machine Learning, Gen AI, LLMs, Python, SQL and various data science python libraries.
+Experienced Data Scientist proficient in Machine Learning, Gen AI, LLMs, Python, Data Analytics,SQL and various data science python libraries.
 
 [Click here](https://drive.google.com/file/d/1DgGFgA0GO5jbP-PtXfOxFsKhrA3cB8E8/view?usp=sharing) to view resume.
 
