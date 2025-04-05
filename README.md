@@ -2,11 +2,11 @@
 
 Welcome to my portfolio website repository! This project showcases my skills, experience, and projects in a dynamic and accessible way. The site is built using MkDocs and hosted on GitHub Pages.
 
-[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https%3A%2F%2Frakesh-seenu.github.io%2Fresume_mkdocs%2F)](https://rakesh-seenu.github.io/resume_mkdocs/)  
+[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https%3A%2F%2Frakesh-seenu.github.io%2Fresume_mkdocs%2F)](https://github.com/SrujanGowda1998)  
 
 ## About Me
 
-I'm a passionate Software Engineer with a strong interest in DevOps, Cloud Computing, AI/ML.  I love building innovative solutions and continuously learning new technologies.  This portfolio reflects my journey and the projects I'm most proud of.
+Experienced Data Scientist proficient in Machine Learning, Gen AI, LLMs, Python, SQL and various data science python libraries. I enjoy building innovative solutions. This portfolio reflects my journey and the projects that I'm proud of.
 
 ## Explore My Portfolio
 

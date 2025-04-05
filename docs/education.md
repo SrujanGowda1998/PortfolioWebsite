@@ -23,7 +23,7 @@ _**Grade**: 1.8 (Out of 5; 1 being highest)_
 <br>
 _Bachelor of Electronics & Communications Engineering_
 <br>
-Matplotlib, Python Programming, Machine Learning, SQL, Digital Electronics, Statistics
+Python & C Programming, Statistics, SQL, Matplotlib, Machine Learning, IoT, Hardware Programming, Digital Electronics, 
 <br>
 _2016 - 2020_
 <br>
