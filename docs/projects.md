@@ -10,18 +10,18 @@ hide:
 
 ???+ info "German Biography Generator for Fern Universität Campus Hagen"
 
-    ### This project is live, I recomment you to [check it.](https://german-biography-generator-ai.streamlit.app/)
+    ### This project is live, I recommend you to [check it.](https://german-biography-generator-ai.streamlit.app/)
     
     ### Project Summary
 
-    •	Developed an AI application which takes transcripts of lengthy oral interviews and generates a brief, one page biography of the interviewee.
+    •	Developed an AI application which takes transcripts of lengthy oral interviews and generates a brief, one-page biography of the interviewee.
 
     •	Conducted research on various LLMs suitable for German language and selected Mistral-7B-Instruct-v0.2 for the specific application.
 
     •	Impact of the project: Reduced the time required for researchers at Fern Universität Campus Hagen to get the introduction of the interviewee by 95%. 
 
 
-    ### Tech-stacks Used
+    ### Tech Stacks Used
 
      Python, LLMs, NLP, Streamlit, API
 
@@ -37,7 +37,7 @@ hide:
 
     •	Created an interactive UI for the recruiters to enter the requirements and filter the candidates.
 
-    ### Tech-stacks Used
+    ### Tech Stacks Used
 
      Python, Scikit-learn, NumPy, Pandas, SQLite, Streamlit
  

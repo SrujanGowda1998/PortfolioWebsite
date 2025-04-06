@@ -36,7 +36,7 @@ hide:
 
     3. Generate embeddings and store them in Pinecone for vector-based retrieval.
 
-    -> Indexed all document embeddings in Pinecone vector database, Pinecone was choosen for its fast and accurate similarity search over large document sets.
+    -> Indexed all document embeddings in Pinecone vector database, Pinecone was chosen for its fast and accurate similarity search over large document sets.
 
     -> Fully automated the document QA process, eliminating manual search and analysis of complex documents.
 
@@ -52,7 +52,7 @@ hide:
 
     -> Built the entire application inside a Docker Dev Container, ensuring consistent environments and easier development handoff.
 
-    -> Built a Docker image od the application for platform-independent deployment.
+    -> Built a Docker image of the application for platform-independent deployment.
 
     -> Wrote detailed technical documentation of the system architecture, deployment guidelines, and maintenance procedures.
 
@@ -89,7 +89,7 @@ hide:
 
     -> Optimized model accuracy through hyperparameter optimization (Grid Search), refining classification precision for the particular business use.
 
-    -> Evaluated ML models using production datasets, ensuring no performence drop under actual deployment conditions.
+    -> Evaluated ML models using production datasets, ensuring no performance drop under actual deployment conditions.
 
     ### **Data Engineering & Workflow Automation :**
 

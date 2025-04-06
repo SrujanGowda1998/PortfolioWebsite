@@ -21,9 +21,9 @@ _**Grade**: 1.8 (Out of 5; 1 being highest)_
 
 [**Dayananda Sagar Academy of Technology & Management**](https://dsatm.edu.in/)
 <br>
-_Bachelor of Electronics & Communications Engineering_
+_Bachelor of Engineering in Electronics & Communications Engineering_
 <br>
-Python & C Programming, Statistics, SQL, Matplotlib, Machine Learning, IoT, Hardware Programming, Digital Electronics, 
+Python & C Programming, Statistics, SQL, Matplotlib, Machine Learning, IoT, Hardware Programming, Digital Electronics
 <br>
 _2016 - 2020_
 <br>
