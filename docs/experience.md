@@ -8,7 +8,7 @@ hide:
 
 ---
 
-???+ tip "Master's Thesis Student"
+???+ tip "AI Researcher Master's Thesis student "
 
     ## **AbbVie Deutschland GmbH & Co. KG., Ludwigshafen, Germany**
 
