@@ -73,7 +73,7 @@ hide:
 
 <div style="border-left: 2px solid #ccc;height: 10px;margin: 0 20px;"></div>
 
-???+ tip "Working Student (Full-time)"
+???+ tip "Applied ML Engineer – Working Student (Full-time)"
 
     ## **AbbVie Deutschland GmbH & Co. KG., Ludwigshafen, Germany**
 
